@@ -11,7 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
     
-  extended_text_library: ^0.5.2
+  extended_text_library:
+    git: https://github.com/yh4922/extended_text_library.git
 
 dev_dependencies:
   flutter_test:
